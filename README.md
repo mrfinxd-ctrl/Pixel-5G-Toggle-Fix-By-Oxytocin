@@ -1,4 +1,4 @@
-# Pixel 5 5G Toggle Fix By Oxytocin
+# Pixel 5G Toggle Fix By Oxytocin
 
 **First Magisk module unlocking 5G/NR toggle/switch** on Pixel phones in unsupported regions
 
