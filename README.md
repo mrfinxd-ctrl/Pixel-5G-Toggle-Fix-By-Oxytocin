@@ -20,13 +20,6 @@
 2. Magisk → Modules → Install from storage
 3. RebootSettings → Network → NR toggle ✅
 
-
-## Changelog
-**v1.0**
-- Initial 5G/NR toggle unlock
-- VoNR/VoWiFi/ViWiFi/VoLTE 
-
-
 ## Credits
 𝐎𝐗𝐘𝐓𝐎᪰᪳𝐂𝐈𝐍 (mrfinxd-cttl)
 
