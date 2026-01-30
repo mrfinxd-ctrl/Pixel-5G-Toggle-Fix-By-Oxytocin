@@ -1,4 +1,7 @@
 # Changelog
+## [v4.0] - 2026-01-31
+- Integrated universal floating windows
+- Bug fixes
 
 ## [v3.0] - 2026-01-25
 - OTA test
@@ -25,6 +28,6 @@
 
 ## NOTE
 - All these things are only for Google Pixel devices
-- Tested on Pixel 4, 5, 6, 7, 8 (should work on other models)
+- Tested on Pixel 4, 5, 6, 7, 8, 9 (should work on other models)
 - Required Android version 14 & above
-- Should be rooted and magisk(v25+) installed
+- Should be rooted and magisk(v20.4+) installed
